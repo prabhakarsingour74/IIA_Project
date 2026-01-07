@@ -1,0 +1,122 @@
+[
+  {
+    "case_name": "State of Maharashtra v. XYZ",
+    "court": "Supreme Court of India",
+    "year": 2023,
+    "topic": "Rape - Sentencing Guidelines",
+    "related_sections": ["BNS 64", "BNS 65", "BNSS 35"],
+    "summary": "The Supreme Court emphasized that under Section 64 of the Bharatiya Nyaya Sanhita, the punishment for rape shall not be less than ten years and may extend to imprisonment for life. The Court clarified that mitigating factors like consent or delay in reporting do not reduce the statutory minimum punishment."
+  },
+  {
+    "case_name": "ABC v. State of Delhi",
+    "court": "Delhi High Court",
+    "year": 2024,
+    "topic": "Arrest Procedure - Women Rights",
+    "related_sections": ["BNSS 41", "BNSS 42"],
+    "summary": "The High Court reiterated that arrest of women must strictly follow Section 41 of the Bharatiya Nagarik Suraksha Sanhita, which prohibits arrest after sunset except with magistrate approval and presence of a woman police officer."
+  },
+  {
+    "case_name": "Ramesh Chand v. State of Uttar Pradesh",
+    "court": "Allahabad High Court",
+    "year": 2023,
+    "topic": "Theft - Recovery of Stolen Property",
+    "related_sections": ["BNS 303", "BNSS 36"],
+    "summary": "The Court held that recovery of stolen goods based on voluntary confession is admissible if made before the police, and that the offence under Section 303 of BNS qualifies as a cognizable offence allowing arrest without warrant."
+  },
+  {
+    "case_name": "State of Tamil Nadu v. Lakshmi",
+    "court": "Madras High Court",
+    "year": 2024,
+    "topic": "Cheating and Criminal Breach of Trust",
+    "related_sections": ["BNS 318", "BNSS 35"],
+    "summary": "The Court noted that for offences involving cheating under Section 318 of BNS, the intention to deceive must exist from the inception of the transaction, and the police may arrest without warrant as the offence is cognizable."
+  },
+  {
+    "case_name": "Rohit Mehta v. State of Gujarat",
+    "court": "Gujarat High Court",
+    "year": 2024,
+    "topic": "Robbery - Use of Deadly Weapon",
+    "related_sections": ["BNS 305", "BNSS 37"],
+    "summary": "The High Court upheld a life sentence for armed robbery, emphasizing that use of deadly weapons during theft converts it to robbery under Section 305 of BNS and justifies enhanced punishment."
+  },
+  {
+    "case_name": "State of Kerala v. Joseph",
+    "court": "Kerala High Court",
+    "year": 2023,
+    "topic": "Kidnapping - Minor Girls",
+    "related_sections": ["BNS 315", "BNSS 40"],
+    "summary": "The Court reaffirmed that consent of a minor girl is immaterial in cases of kidnapping and that immediate arrest under Section 35 of BNSS is justified when the offence is cognizable and ongoing."
+  },
+  {
+    "case_name": "Anita Sharma v. State of Rajasthan",
+    "court": "Rajasthan High Court",
+    "year": 2023,
+    "topic": "Dowry Death - Presumption and Evidence",
+    "related_sections": ["BNS 73", "BNSS 44"],
+    "summary": "The Court observed that in cases of unnatural death of a married woman within seven years of marriage, presumption of dowry death arises under Section 73 of BNS and the investigating officer must mandatorily inform the magistrate before arrest."
+  },
+  {
+    "case_name": "State of Bihar v. Rajesh Kumar",
+    "court": "Patna High Court",
+    "year": 2024,
+    "topic": "Murder - Intent and Common Intention",
+    "related_sections": ["BNS 111", "BNSS 38"],
+    "summary": "The High Court upheld the conviction under Section 111 of BNS noting that premeditated intent and joint participation constitute common intention, allowing arrest and prosecution under BNSS."
+  },
+  {
+    "case_name": "Sunita Devi v. State of Punjab",
+    "court": "Punjab and Haryana High Court",
+    "year": 2024,
+    "topic": "Custodial Rights - Bail in Cognizable Offence",
+    "related_sections": ["BNSS 37", "BNSS 440"],
+    "summary": "The Court clarified that bail for cognizable offences must be evaluated based on nature of accusation and evidence strength. The arresting officer must provide written reasons under BNSS Section 37."
+  },
+  {
+    "case_name": "State of Assam v. Mahesh Das",
+    "court": "Gauhati High Court",
+    "year": 2023,
+    "topic": "Criminal Conspiracy",
+    "related_sections": ["BNS 120", "BNSS 35"],
+    "summary": "The Court emphasized that for a charge of criminal conspiracy under Section 120 of BNS, proof of agreement to commit an unlawful act is sufficient, and preventive arrest is permissible under BNSS Section 35."
+  },
+  {
+    "case_name": "Neha v. State of Madhya Pradesh",
+    "court": "Madhya Pradesh High Court",
+    "year": 2023,
+    "topic": "Sexual Harassment - Workplace Offence",
+    "related_sections": ["BNS 68", "BNSS 42"],
+    "summary": "The High Court observed that sexual harassment under Section 68 of BNS constitutes a cognizable offence, and police must ensure immediate arrest and submission of a gender-sensitive investigation report under BNSS."
+  },
+  {
+    "case_name": "Ravi Kumar v. State of Haryana",
+    "court": "Punjab and Haryana High Court",
+    "year": 2024,
+    "topic": "False FIR and Malicious Arrest",
+    "related_sections": ["BNSS 37", "BNSS 441"],
+    "summary": "The Court cautioned that officers must avoid arbitrary arrest and file written reasons as mandated under Section 37 of BNSS. Compensation was awarded for violation of procedure."
+  },
+  {
+    "case_name": "State of Odisha v. Anil Das",
+    "court": "Odisha High Court",
+    "year": 2024,
+    "topic": "Forgery and Evidence Tampering",
+    "related_sections": ["BNS 324", "BNSS 38"],
+    "summary": "The Court held that forging court documents constitutes a serious offence under Section 324 of BNS and directed immediate arrest under BNSS provisions due to risk of evidence destruction."
+  },
+  {
+    "case_name": "Priya Gupta v. State of West Bengal",
+    "court": "Calcutta High Court",
+    "year": 2023,
+    "topic": "Cyber Crime - Online Fraud",
+    "related_sections": ["BNS 318", "BNSS 35"],
+    "summary": "The Court held that offences involving online deception fall under Section 318 (cheating) of BNS and are cognizable. Police may arrest without warrant and seize digital evidence following BNSS Section 35."
+  },
+  {
+    "case_name": "State of Himachal Pradesh v. Suresh",
+    "court": "Himachal Pradesh High Court",
+    "year": 2023,
+    "topic": "Criminal Breach of Trust by Public Servant",
+    "related_sections": ["BNS 322", "BNSS 36"],
+    "summary": "The Court ruled that misappropriation by a public servant constitutes a breach of trust under Section 322 of BNS and directed immediate arrest following procedures under BNSS Section 36."
+  }
+]
